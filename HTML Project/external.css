@@ -1,0 +1,30 @@
+ .readtext { text-indent: 5em; color:black; padding: 20px; border:2px solid #333;
+ font-family: Verdana,sans-serif,Arial; font-size: 15px; }
+ 
+ body {background-color:#f9f9f9;}
+ 
+ main  {padding: 20px; border:2px solid #333; border-radius: 15px;
+background-color: #E6F0FA; 
+ font-family: Verdana,sans-serif,Arial;font-size: 16px;}
+ 
+ footer { 
+ color: black; font-family: Verdana,sans-serif,Arial; 
+ font-style: italic; font-weight: bold;}
+ 
+ header {
+ font-family: Verdana,sans-serif,Arial;}
+ 
+ div {background-color: #E6F0FA; 
+ color:black;  font-size: 16px;
+ font-family: Verdana,sans-serif,Arial;}
+ 
+ nav {
+ font-family: Verdana,sans-serif,Arial;
+ font-size: 16px;}
+ 
+ h4{background-color: #E6F0FA; 
+ font-family: Verdana,sans-serif,Arial;font-size: 16px;}
+ 
+ ul {font-family: Verdana,sans-serif,Arial;font-size: 12px;}
+ 
+ #gpicture img {float:right; height:auto; width: 250px;}
